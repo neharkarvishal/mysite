@@ -3,7 +3,7 @@
 \#mysite is a simple blog made using Django Web framework and Pyhon as back end technology.
 
   - List the the published topics.
-  - Readyly available, users to read.
+  - Available, users to read.
 
 ## Features
   - Currently basic blog functionality are supported
