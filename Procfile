@@ -1,1 +1,1 @@
-web: python manage.py 6500
+web: web: python manage.py runserver
