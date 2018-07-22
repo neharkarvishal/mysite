@@ -3,7 +3,7 @@
 \#mysite is a simple blog made using Django Web framework and Pyhon as back end technology.
 
   - List the the published topics.
-  - Available, users to read.
+  - Available, users to read; Deployed at https://mysitesmallblog.herokuapp.com
 
 ## Features
   - Currently basic blog functionality are supported
